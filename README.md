@@ -2,6 +2,8 @@
 
 Classifies short text messages as **spam** or **ham** (legitimate) using classical NLP and machine learning.
 
+**Live demo:** https://ujwalreddy18.github.io/Twitter-spam-detection/ (paste a message and see the verdict)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujwalreddy18/Twitter-spam-detection/blob/main/spam_detection.ipynb)
 
 ## Dataset
